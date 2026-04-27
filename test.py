@@ -1,1 +1,0 @@
-print("Hello 친구야")
